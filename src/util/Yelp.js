@@ -13,10 +13,23 @@ const search(term, location, sortBy) {
 		}).then(jsonResponse => {
 			if (jsonResponse.businesses) {
 				return jsonResponse.businesses.map(businesses => (
-					
+						return {
+							id: business.id,
+							imageSrc: business.image_url,
+							name: business.name,
+							address: business.address,
+							city: business.city,
+							state: business.state,
+							zipCode: business.zipCode,
+							category: business.category,
+							rating: business.rating,
+							reviewCount: business.reviewCount
+						}
 					) 
 				);
 			}
 			throw new Error ('Request failed!');
 		});
 }
+
+export default Yelp;
