@@ -7,7 +7,7 @@
     "cryptiles": "^4.1.2",
     "deep-extend": "^0.6.0",
     "extend": "^3.0.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "macaddress": "^0.2.9",
     "merge": "^1.2.1",
     "node-fetch": "^2.6.1",
