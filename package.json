@@ -21,7 +21,7 @@
     "lodash.template": "^4.5.0",
     "macaddress": "^0.2.9",
     "mem": "^6.1.1",
-    "merge": "^1.2.1",
+    "merge": ">=2.1.1",
     "minimist": "^1.2.5",
     "mixin-deep": "^2.0.1",
     "node-fetch": "^2.6.1",
