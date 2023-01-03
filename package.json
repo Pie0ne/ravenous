@@ -36,7 +36,7 @@
     "react": "^16.7.0",
     "react-dev-utils": ">=11.0.4",
     "react-dom": "^16.7.0",
-    "react-scripts": "1.1.0",
+    "react-scripts": "5.0.1",
     "set-value": "^3.0.2",
     "sshpk": "^1.13.2",
     "stringstream": "^1.0.0",
