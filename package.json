@@ -42,7 +42,7 @@
     "stringstream": "^1.0.0",
     "tree-kill": "^1.2.2",
     "trim-newlines": "^4.0.1",
-    "ua-parser-js": "^0.7.28",
+    "ua-parser-js": "^0.7.33",
     "url-parse": "^1.4.3",
     "websocket-extensions": "^0.1.4",
     "whatwg-fetch": "^2.0.4",
